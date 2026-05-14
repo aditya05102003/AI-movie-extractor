@@ -1,0 +1,13 @@
+mistralai
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-mistralai
+pydantic
+tiktoken
+numpy
+pandas
+faiss-cpu
+sentence-transformers
+streamlit
